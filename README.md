@@ -19,4 +19,4 @@ Acesse o repositório base que forneci na aula e inicie sua jornada!
 5. Crie um novo arquivo com um conto original de sua escolha, adicione e faça o commit.
 6. Suba a branch para o seu GitHub e abra um Pull Request detalhado para o repositório original, explicando no corpo da mensagem como você resolveu os conflitos.
 
-# Façam e aproveitem! <3
+# Façam até o fim! <3
