@@ -18,3 +18,5 @@ Acesse o repositório base que forneci na aula e inicie sua jornada!
 4. Crie a branch ```contos-completos``` e faça o merge de tudo nela. Resolva os conflitos com calma e precisão!
 5. Crie um novo arquivo com um conto original de sua escolha, adicione e faça o commit.
 6. Suba a branch para o seu GitHub e abra um Pull Request detalhado para o repositório original, explicando no corpo da mensagem como você resolveu os conflitos.
+
+# Façam até o fim! <3
